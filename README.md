@@ -13,8 +13,8 @@ As there are many similarities in the layout of the two works, it provides us wi
 ## Coding Technique Exploration
 The neon effect is important in order to achieve the cyberpunk style colours described above. So I will use the glow effect to make some of the colours have a glow effect. shadowBlur and shadowColor are two functions from CanvasRenderingContext2D. ShadowBlur can be assigned a value for the blur, the higher the value the higher the blur. Then the graphic can be rendered with a halo effect.
 
-![Screen shot of the example](assets\example.png)
+![Screen shot of the example](assets/example.png)
 
 In addition to this, there are shadowOffsetX and shadowOffsetY to change the position of the shadow. So I would also consider making the mouse a light source to change the direction of the shadows and halos when creating interactive gives. You can also see in the example that the author used map() to lock the mouse position.
 
-![glow effect 1:40](https://www.youtube.com/watch?v=iIWH3IUYHzM&ab_channel=KazukiUmeda)
+[glow effect 1:40](https://www.youtube.com/watch?v=iIWH3IUYHzM&ab_channel=KazukiUmeda)
