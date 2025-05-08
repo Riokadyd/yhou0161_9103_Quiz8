@@ -17,4 +17,4 @@ The neon effect is important in order to achieve the cyberpunk style colours des
 
 In addition to this, there are shadowOffsetX and shadowOffsetY to change the position of the shadow. So I would also consider making the mouse a light source to change the direction of the shadows and halos when creating interactive gives. You can also see in the example that the author used map() to lock the mouse position.
 
-[glow effect 1:40](https://www.youtube.com/watch?v=iIWH3IUYHzM&ab_channel=KazukiUmeda)
+[Glow effect 1:40](https://www.youtube.com/watch?v=iIWH3IUYHzM&ab_channel=KazukiUmeda)
